@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# vscode
+.vscode
+
+# local development folders
+bin/
