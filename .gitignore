@@ -5,5 +5,7 @@
 # vscode
 .vscode
 
-# local development folders
+# local development
 bin/
+.air.toml
+tmp/
